@@ -1,3 +1,4 @@
 # Table of contents
 
-* [website\_sinabehzadifard.github.io](README.md)
+* [Sina Behzadifard](README.md)
+* [Research](research.md)

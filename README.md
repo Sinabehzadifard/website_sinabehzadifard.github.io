@@ -1,11 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1582466521058-8e5318cfb834?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxiaXJkJTIwb24lMjB0aGUlMjB3YWxsfGVufDB8fHx8MTc0MDg0ODIxOHww&ixlib=rb-4.0.3&q=85
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -18,5 +12,7 @@ layout:
     visible: true
 ---
 
-# website\_sinabehzadifard.github.io
+# Sina Behzadifard
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a href=".gitbook/assets/photo_2023-07-24_07-42-21.jpg">photo_2023-07-24_07-42-21.jpg</a></td></tr></tbody></table>
 
